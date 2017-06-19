@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    height: 100%;
+    background-color: #e0e0e0;
+    padding-top: 90px;
+    padding-bottom: 10px;
+}
+.Temp_icon{
+    padding-top: 2px;
+    width: 80px;
+    height: 45px;;
+}
+.header_text{
+    padding-top: 14px;
+}
+.Aanmelden_txtbx{
+    text-decoration: none;
+}
+.ul_header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4CAF50;
+
+
+
+}
+.login{
+    float: right;
+}
+
+li{
+    float: left;
+    font-size: larger;
+}
+li a{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active)
+{
+    background-color: #367c39;
+}
+.material-icons{
+    padding-top: 8px;
+    font-size: 40px;
+}
+.Foto_welcome{
+    display:block;
+    margin:auto;
+    height: 212px;
+    width: 354px;
+    padding-top: 70px;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+}
+p{
+    text-align: center;
+}
+fieldset{
+    background-color: inherit;
+    border-color: white;
+    width: 350px;
+    display:block;
+    margin:auto;
+}
+legend{
+
+    background-color: #e0e0e0 ;
+}
+.p_maakAccountAan{
+    text-align: left;
+}
+#klikhier{
+    text-decoration: none;
+    color: black;
+}
+#klikhier:hover{
+    text-decoration: underline;
+    color: #367c39;
+}
+.Textbox_email{
+    width: 200px;
+}
+
+li img{
+    margin-top: 16px;
+}
+.neerslag th{
+
+    text-align: center;
+    background-color:#4CAF50;
+    border: 1px solid white;
+    color: white;
+    padding: 4px 30px 4px 8px;
+
+}
+.neerslag td{
+    border: 2px solid white;
+    padding: 4px 8px;
+
+}
+.neerslag{
+
+    border-left: 200px;
+    border-collapse: collapse;
+    padding-bottom: 50px;
+}
+table{
+    text-align: center;
+    margin: auto;
+
+
+
+}
+.p_regen{
+    text-align: center;
+
+    display: block;
+
+}
